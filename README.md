@@ -49,7 +49,7 @@ I am a Data Scientist with 4 years of total work experience and 3 years of exper
 ## Top Projects
 
 <!--START_SECTION:projects-->
-1- SelfGPT: A RAG based AI application which will answer questions about me. <br>
+1- SelfGPT: A RAG based AI application which will answer questions about me. (The prototype with my resume has been pushed to Github, this use-case has been extended for other candidate's resumes within the current organization. <br>
 2- Interview based practice assistant: An agentic based project using CrewAI frameworks and Langchain <br>
 3- Deposit Growth Prediction for Branch Expansion Strategy for BFSIs: A classical ML project predicting deposit growth percentage based on RBI's data from 2019 to 2024 for 60 pincodes (urban, semi-urban and rural) all across the states in India. <br>
 4- Summarisation of Technical Research Papers: Papers trained on dataset (BERT model was finetuned) and then BART was used for summarisation. <br>
