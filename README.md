@@ -12,7 +12,7 @@
 ---
 
 ## About
-I am a Data Scientist with 4 years of total work experience and 3 years of experience in Data Science. I love building AI & ML projects and enjoy shipping them as full‑stack web applications. I work with model development, prototyping UIs (Streamlit), and backend services (Flask/Django/FastAPI). At present I am also exploring integrating Node.js, React.js, and .NET with AI for web; and Flutter/.NET for mobility. I am open to working with broader software development technologies such as Java and .NET.
+I am a Data Scientist with 5.6 years of total work experience and 5+ years of experience in Data Science. I love building AI & ML projects and enjoy shipping them as full‑stack web applications. I work with model development, prototyping UIs (Streamlit), and backend services (Flask/Django/FastAPI), Cloud platforms like Azure, GCP; vector databases like ChromaDB and FAISS. At present I am also exploring integrating Node.js, React.js, and .NET with AI for web; and Flutter/.NET for mobility. I am open to working with broader software development technologies such as Java and .NET.
 
 ---
 
